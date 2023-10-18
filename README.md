@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abimanianandan
+-  Hi👋, I’m Abimani
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me abikbm06@gmail.com
